@@ -13,6 +13,8 @@
 <!doctype HTML>
 <html>
 	<head>
+		<title>dweet downloader</title>
+		<link rel="shortcut icon" type="image/png" href="/favicon.png"/>
 		<style>
 			html,body{
 				margin:0;
